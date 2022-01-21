@@ -16,7 +16,3 @@ profile_picture:
 <p>
   I earned my Master's Degree in Management, which provide me passion and knowledge to connect human and computing, and further support me with different thinking perspectives in Computing Education area.
 </p>
-
-<p>
-  Email: ericzh at udel dot edu
-</p>

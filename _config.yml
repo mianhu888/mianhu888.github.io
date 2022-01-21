@@ -12,6 +12,8 @@ header:
   pages:
     - name: Home
       slug: /
+    - name: Research
+      slug: /research
     - name: CV
     - name: Fun
 
