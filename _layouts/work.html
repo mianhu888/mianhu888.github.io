@@ -9,8 +9,6 @@
       <div class="wrapper">
         <div class="work">
           <h1 class="page-heading">{{ page.title1 }}</h1>
-          {{ content }}
-
           {% for item in page.projects %}
           <div class="work-item">
             <img
@@ -29,9 +27,7 @@
 
         <div class="work">
           <h1 class="page-heading">{{ page.title2 }}</h1>
-          {{ content }}
-
-          {% for item in page.projects %}
+          {% for item in page.publications %}
           <div class="work-item">
             <span class="work-text">
               <strong>{{ item.title }}</strong>
