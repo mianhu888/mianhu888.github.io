@@ -8,10 +8,10 @@
     <div class="page-content">
       <div class="wrapper">
         <div class="work">
-          <h1 class="page-heading">{{ page.title }}</h1>
+          <h1 class="page-heading">{{ page.title1 }}</h1>
           {{ content }}
 
-          {% for item in page.items %}
+          {% for item in page.projects %}
           <div class="work-item">
             <img
               src="{{ item.image.src | absolute_url }}"
@@ -20,8 +20,24 @@
             />
             <span class="work-text">
               <strong>{{ item.title }}</strong>
-              &mdash;
+              <br/>
               {{ item.description }}
+            </span>
+          </div>
+          {% endfor %}
+        </div>
+
+        <div class="work">
+          <h1 class="page-heading">{{ page.title2 }}</h1>
+          {{ content }}
+
+          {% for item in page.projects %}
+          <div class="work-item">
+            <span class="work-text">
+              <strong>{{ item.title }}</strong>
+              <br/>
+              {{ item.authors }}
+              {{ item.conference }}
             </span>
           </div>
           {% endfor %}

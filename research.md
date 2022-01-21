@@ -1,8 +1,9 @@
 ---
 layout: work
-title: Research
 slug: /work
-items:
+
+title1: Project
+projects:
   - title: Code Beats
     image:
       src: /assets/img/work/codebeats.jpg
@@ -14,8 +15,14 @@ items:
       src: /assets/img/work/foxfield.png
       alt: Fox and Field
     description: What types of scaffolds narrow the computational thinking (CT) performance gap between experts and novices within a coding obstacle course? We designed Fox and Field, a block-based programming game with different scaffolds and prompted to undergrad students in CS major and non-CS major. We assessed their CT knowledge and logged their programming process data to understand this question.
+
+
+title2: Publication
+publications:
+  - title: Exploring Computational Thinking Across Disciplines Through Student-Generated Artifact Analysis
+    authors: Yifan Zhang, Amanda Mohammad Mirzaei, Lori Pollock, Chrystalla Mouza, and Kevin Guidry
+    conference: ACM Special Interest Group on Computer Science Education (SIGCSE). 2021.
 ---
 
-This is an example of a "Work" page, displaying your work, your interests, your projects.
 <br />
 <br />
