@@ -20,7 +20,7 @@ projects:
 title2: Publication
 publications:
   - title: Exploring Computational Thinking Across Disciplines Through Student-Generated Artifact Analysis
-    authors: Yifan Zhang, Amanda Mohammad Mirzaei, Lori Pollock, Chrystalla Mouza, and Kevin Guidry
+    authors: <u>Yifan Zhang</u>, Amanda Mohammad Mirzaei, Lori Pollock, Chrystalla Mouza, and Kevin Guidry
     conference: ACM Special Interest Group on Computer Science Education (SIGCSE). 2021.
 ---
 
