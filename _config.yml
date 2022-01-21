@@ -17,6 +17,9 @@ header:
 
 footer:
   show_powered_by: true
+  contact:
+    - name: Email
+      value: ericzh at udel dot edu
 
 
 # Build settings
