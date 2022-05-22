@@ -16,7 +16,7 @@ header:
       slug: /research
     - name: CV
     - name: Fun
-      slug: /index
+      slug: /lesson
 
 footer:
   show_powered_by: true
