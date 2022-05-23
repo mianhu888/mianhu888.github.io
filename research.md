@@ -8,7 +8,13 @@ projects:
     image:
       src: /assets/img/work/codebeats.jpg
       alt: CodeBeats
-    description: Making music could be a way to learn programming. We teach computational thinking via a curriculum where (1) students learn how to code to manipulate and create hip hop beats and (2) students experience computation. As students make beats, they, almost without noticing, learn fundamental concepts and skills of computer science.
+    description: Making music could be a way to learn programming. We teach computational thinking (CT) via a curriculum where (1) students learn how to code to manipulate and create hip hop beats and (2) students experience computation. As students make beats, they, almost without noticing, learn fundamental concepts and skills of computer science.
+
+  - title: Partner4CS
+    image:
+      src: /assets/img/work/partner4cs.png
+      alt: Partner4CS
+    description: We propose to establish sustainable, high-quality professional development and support for middle (G6-8) and high school (G9-12) computer science teachers by teaming university faculty and undergraduates in computer science, education, and math education and leveraging successful components of several existing models across the country.
 
   - title: Fox and Field
     image:

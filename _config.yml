@@ -15,7 +15,7 @@ header:
     - name: Research
       slug: /research
     - name: CV
-    - name: Fun
+    - name: Lesson Finder
       slug: /lesson
 
 footer:
