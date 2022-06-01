@@ -1173,12 +1173,12 @@ input[type="submit"], .btn-download, .btn-arrow, #wpforms-submit-2532, .product-
 
 .btn, button,
 input[type="submit"], .btn-download, .btn-arrow, #wpforms-submit-2532, .product-grid-item-link {
-  background-color: #CB4B41;
-  border: 1px solid #CB4B41; }
+  background-color: #0090bf;
+  border: 1px solid #0090bf; }
   .btn:hover, button:hover,
   input:hover[type="submit"], .btn-download:hover, .btn-arrow:hover, #wpforms-submit-2532:hover, .product-grid-item-link:hover {
     background-color: transparent;
-    color: #CB4B41; }
+    color: #0090bf; }
   .btn:after, button:after,
   input[type="submit"]:after, .btn-download:after, .btn-arrow:after, #wpforms-submit-2532:after, .product-grid-item-link:after {
     background-color: #aa382f; }
@@ -2583,7 +2583,7 @@ figure {
 
 /*=============== Layouts  ===============*/
 .page-intro {
-  background-color: #CB4B41;
+  background-color: #0090bf;
   min-height: 3.3125em;
   text-align: center; }
   .page-intro .inner-wrap, .page-intro .inner-wrap-narrow, .page-intro .inner-wrap-wide, .page-intro .inner-wrap-fullwidth {
@@ -2649,16 +2649,16 @@ figure {
     background-color: #2f0e17; }
 
 .orange .page-intro {
-  background-color: #CB4B41; }
+  background-color: #0090bf; }
 
 .orange .btn, .orange button,
 .orange input[type="submit"], .orange .btn-download, .orange .btn-arrow, .orange #wpforms-submit-2532, .orange .product-grid-item-link {
-  background-color: #CB4B41;
-  border: 1px solid #CB4B41; }
+  background-color: #0090bf;
+  border: 1px solid #0090bf; }
   .orange .btn:hover, .orange button:hover,
   .orange input:hover[type="submit"], .orange .btn-download:hover, .orange .btn-arrow:hover, .orange #wpforms-submit-2532:hover, .orange .product-grid-item-link:hover {
     background-color: transparent;
-    color: #CB4B41; }
+    color: #0090bf; }
   .orange .btn:after, .orange button:after,
   .orange input[type="submit"]:after, .orange .btn-download:after, .orange .btn-arrow:after, .orange #wpforms-submit-2532:after, .orange .product-grid-item-link:after {
     background-color: #aa382f; }
@@ -2824,7 +2824,7 @@ input.no-border[type="submit"], .no-border.btn-download, .no-border.btn-arrow, .
   .filter-box .search-box {
     display: flex;
     width: 88%;
-    border: 2px solid #CB4B41;
+    border: 2px solid #0090bf;
     border-radius: 10px;
     overflow: hidden;
     background-color: #ffffff; }
@@ -2866,7 +2866,7 @@ input.no-border[type="submit"], .no-border.btn-download, .no-border.btn-arrow, .
     display: inline-block;
     vertical-align: middle;
     background-color: #ffffff;
-    color: #CB4B41;
+    color: #0090bf;
     padding: 5px 11px 4px 12px;
     margin: 0.25em;
     position: relative;
@@ -2879,7 +2879,7 @@ input.no-border[type="submit"], .no-border.btn-download, .no-border.btn-arrow, .
 .filters > ul.filter-nav > li {
   position: relative;
   padding: 1.5em 0.625em 0.75em 0.625em;
-  border-bottom: 1px solid #CB4B41; }
+  border-bottom: 1px solid #0090bf; }
   .filters > ul.filter-nav > li.disabled {
     background-color: #F5F5F5;
     pointer-events: none; }
@@ -2907,7 +2907,7 @@ input.no-border[type="submit"], .no-border.btn-download, .no-border.btn-arrow, .
 .page-left-sidebar #sidebar i {
   float: right;
   font-size: 1.5em;
-  color: #CB4B41; }
+  color: #0090bf; }
 
 .page-left-sidebar #sidebar .label-description {
   left: 10px;
@@ -2974,11 +2974,11 @@ input.no-border[type="submit"], .no-border.btn-download, .no-border.btn-arrow, .
     left: 0;
     top: 3px;
     border-radius: 3px;
-    border: 1px solid #CB4B41; }
+    border: 1px solid #0090bf; }
   .checkboxContainer input:checked + .checkmark {
-    background-color: #CB4B41; }
+    background-color: #0090bf; }
   .checkboxContainer:hover .checkmark {
-    background-color: #CB4B41; }
+    background-color: #0090bf; }
   .checkboxContainer input:checked + .checkmark:after, .checkboxContainer:hover .checkmark:after {
     content: "";
     position: absolute;
@@ -2991,7 +2991,7 @@ input.no-border[type="submit"], .no-border.btn-download, .no-border.btn-arrow, .
     transform: translate(-50%, -50%) rotate(-45deg); }
 
 .resultbox {
-  border-bottom: 2px solid #CB4B41;
+  border-bottom: 2px solid #0090bf;
   padding: 0 0 0.5em 0;
   margin: 0 0 2em 0;
   overflow: hidden; }
@@ -3011,7 +3011,7 @@ input.no-border[type="submit"], .no-border.btn-download, .no-border.btn-arrow, .
     padding: 0.125em;
     height: 1.9285714286em;
     box-shadow: none;
-    border: 1px solid #CB4B41;
+    border: 1px solid #0090bf;
     border-radius: 4px; }
     .resultbox select#sortResult {
       width: 90px; }
@@ -3047,7 +3047,7 @@ input.no-border[type="submit"], .no-border.btn-download, .no-border.btn-arrow, .
     display: inline-block;
     vertical-align: middle;
     margin: 0 2px 1px 0;
-    color: #CB4B41; }
+    color: #0090bf; }
 
 /*Meet the team css starts*/
 div.card-meet-the-team img {
@@ -3126,7 +3126,7 @@ div.card-meet-the-team-artical {
   float: left;
   height: 300px;
   padding: 3em;
-  border: 1px solid #cb4b41;
+  border: 1px solid #0090bf;
   box-shadow: 0px 0px 10px 3px #e1edff;
   margin: 1em;
   border-radius: 20px;
@@ -3281,7 +3281,7 @@ a.artical-btn {
   background: #561a2a; }
 
 .CB4B41 {
-  background: #CB4B41; }
+  background: #0090bf; }
 
 .A00A1D5 {
   background: #00a1d4; }
@@ -3320,20 +3320,20 @@ a.artical-btn {
     #pagination a#prevPageSkip {
       background: url(img/ico-arrow-left.svg) no-repeat center center;
       background-size: 70%;
-      background-color: #CB4B41;
+      background-color: #0090bf;
       opacity: 0.5; }
       #pagination a#prevPageSkip:hover {
         opacity: 1; }
     #pagination a#nextPageSkip {
       background: url(./ico-arrow-right.svg) no-repeat center center;
       background-size: 70%;
-      background-color: #CB4B41;
+      background-color: #0090bf;
       opacity: 0.5; }
       #pagination a#nextPageSkip:hover {
         opacity: 1; }
     #pagination a:hover, #pagination a.active {
-      border-color: #CB4B41;
-      color: #CB4B41; }
+      border-color: #0090bf;
+      color: #0090bf; }
 
 #filters-texts ul {
   margin: 0;
@@ -3359,7 +3359,7 @@ a.artical-btn {
         vertical-align: middle;
         margin: 4px;
         background-color: #ffffff;
-        color: #CB4B41;
+        color: #0090bf;
         padding: 5px 11px 4px 12px;
         position: relative;
         border-radius: 5px;
@@ -3411,7 +3411,7 @@ a.artical-btn {
     .media-color-box > div:nth-of-type(2) .circle {
       background-color: #561A2A; }
     .media-color-box > div:nth-of-type(3) .circle {
-      background-color: #CB4B41; }
+      background-color: #0090bf; }
     .media-color-box > div:nth-of-type(4) .circle {
       background-color: #00A1D5; }
     .media-color-box > div:nth-of-type(5) .circle {
@@ -3455,7 +3455,7 @@ a.artical-btn {
     .media-color-box > div:nth-of-type(2) .circle {
       background-color: #561A2A; }
     .media-color-box > div:nth-of-type(3) .circle {
-      background-color: #CB4B41; }
+      background-color: #0090bf; }
     .media-color-box > div:nth-of-type(4) .circle {
       background-color: #00A1D5; }
     .media-color-box > div:nth-of-type(5) .circle {
@@ -3515,7 +3515,7 @@ a.artical-btn {
     vertical-align: top; }
 
 blockquote {
-  border: solid 5px #CB4B41;
+  border: solid 5px #0090bf;
   border-radius: 15px 0px 15px 15px;
   margin: 1.5625em;
   padding: 1.5625em;
@@ -3547,13 +3547,13 @@ table.dataTable thead tr th {
   left: 0;
   top: 4px;
   border-radius: 3px;
-  border: 1px solid #CB4B41; }
+  border: 1px solid #0090bf; }
 
 .checkboxContainerSmall input:checked + .checkmarkSmall {
-  background-color: #CB4B41; }
+  background-color: #0090bf; }
 
 .checkboxContainerSmall:hover .checkmarkSmall {
-  background-color: #CB4B41; }
+  background-color: #0090bf; }
 
 .checkboxContainerSmall input:checked + .checkmarkSmall:after, .checkboxContainerSmall:hover .checkmarkSmall:after {
   content: "";
@@ -3924,7 +3924,7 @@ a[class*="sh-ico-"].tse-remove-border:focus:not(:hover):not(:active),
 
 .sh-ico-menu {
   background-image: url(img/ico-nav.svg);
-  background-color: #CB4B41;
+  background-color: #0090bf;
   background-size: 60%;
   background-position: center center;
   padding: 1rem;
@@ -4259,7 +4259,7 @@ a[class*="sh-ico-"].tse-remove-border:focus:not(:hover):not(:active),
     height: 2.3em; } }
 
 .search-module {
-  background-color: #CB4B41;
+  background-color: #0090bf;
   height: 4em;
   margin-top: -4em;
   border-bottom: 1px solid rgba(0, 0, 0, 0.47);
@@ -4630,7 +4630,7 @@ h2.left-arrow-heading {
 
 .rounded-content-box {
   text-align: center;
-  border: 1px solid #CB4B41;
+  border: 1px solid #0090bf;
   border-radius: 10px;
   padding: 1em; }
   @media (min-width: 60em) {
@@ -4803,7 +4803,7 @@ h2.left-arrow-heading {
       .dataTables_wrapper .dataTables_paginate .paginate_button.previous {
         background: url(img/ico-arrow-left.svg) no-repeat center center;
         background-size: 70%;
-        background-color: #CB4B41 !important;
+        background-color: #0090bf !important;
         opacity: 0.5;
         text-indent: -9999px; }
         .dataTables_wrapper .dataTables_paginate .paginate_button.previous:hover {
@@ -4811,19 +4811,19 @@ h2.left-arrow-heading {
       .dataTables_wrapper .dataTables_paginate .paginate_button.next {
         background: url(./ico-arrow-right.svg) no-repeat center center;
         background-size: 70%;
-        background-color: #CB4B41 !important;
+        background-color: #0090bf !important;
         opacity: 0.5;
         text-indent: -9999px; }
         .dataTables_wrapper .dataTables_paginate .paginate_button.next:hover {
           opacity: 1; }
       .dataTables_wrapper .dataTables_paginate .paginate_button.current, .dataTables_wrapper .dataTables_paginate .paginate_button.current:hover {
-        border-color: #CB4B41 !important;
-        color: #CB4B41 !important;
+        border-color: #0090bf !important;
+        color: #0090bf !important;
         background-color: #ffffff !important; }
       .dataTables_wrapper .dataTables_paginate .paginate_button:hover {
-        background-color: #CB4B41 !important;
-        border-color: #CB4B41 !important;
-        color: #CB4B41 !important; }
+        background-color: #0090bf !important;
+        border-color: #0090bf !important;
+        color: #0090bf !important; }
   .dataTables_wrapper .dataTables_info {
     float: none;
     width: 100%;
