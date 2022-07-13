@@ -28,10 +28,13 @@ publications:
   - title: A Case Study of Middle Schoolers’ Use of Computational Thinking Concepts and Practices during Coded Music Composition
     authors: <u>Yifan Zhang</u>, Douglas Lusa Krug, Chrystalla Mouza, David C. Shepherd, and Lori Pollock
     conference: Innovation and Technology in Computer Science Education (ITiCSE). 2022.
+    link: [<a href="https://dl.acm.org/doi/10.1145/3502718.3524757">ACM DL</a>]
+
 
   - title: Exploring Computational Thinking Across Disciplines Through Student-Generated Artifact Analysis
     authors: <u>Yifan Zhang</u>, Amanda Mohammad Mirzaei, Lori Pollock, Chrystalla Mouza, and Kevin Guidry
     conference: ACM Special Interest Group on Computer Science Education (SIGCSE). 2021.
+    link: [<a href="https://dl.acm.org/doi/10.1145/3408877.3439594">ACM DL</a>]
 ---
 
 <br />
