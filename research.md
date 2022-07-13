@@ -29,14 +29,16 @@ publications:
     authors: <u>Yifan Zhang</u>, Douglas Lusa Krug, Chrystalla Mouza, David C. Shepherd, and Lori Pollock
     conference: Innovation and Technology in Computer Science Education (ITiCSE). 2022.
     link_ACMDL: <a href="https://dl.acm.org/doi/10.1145/3502718.3524757">ACM DL</a>
-    link_PDF: <a href="/assets/img/work/codebeats.jpg">PDF</a>
-    link_SLIDES: <a href="/assets/file/ITiCSE_2022_TunePad.pdf">SLIDES</a>
+    link_PDF: <a href="/assets/file/ITiCSE_2022_Zhang_Paper.pdf">PDF</a>
+    link_SLIDES: <a href="/assets/file/ITiCSE_2022_Zhang_Slides.pdf">Slides</a>
 
 
   - title: Exploring Computational Thinking Across Disciplines Through Student-Generated Artifact Analysis
     authors: <u>Yifan Zhang</u>, Amanda Mohammad Mirzaei, Lori Pollock, Chrystalla Mouza, and Kevin Guidry
     conference: ACM Special Interest Group on Computer Science Education (SIGCSE). 2021.
-    link: [<a href="https://dl.acm.org/doi/10.1145/3408877.3439594">ACM DL</a>]
+    link_ACMDL: <a href="https://dl.acm.org/doi/10.1145/3408877.3439594">ACM DL</a>
+    link_PDF: <a href="/assets/file/SIGCSE_2021_Zhang_Abstract.pdf">Abstract</a>
+    link_SLIDES: <a href="/assets/file/SIGCSE_2021_Zhang_Poster.pdf">Poster</a>
 ---
 
 <br />

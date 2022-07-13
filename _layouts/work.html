@@ -31,7 +31,15 @@
           <div class="work-item">
             <span class="work-text">
               <strong>{{ item.title }}</strong>
-              [{{ item.link_ACMDL }}][{{ item.link_PDF }}][{{ item.link_SLIDES }}]
+              {% if item.link_ACMDL%}
+                [{{ item.link_ACMDL }}]
+              {% endif%}
+              {% if item.link_PDF%}
+                [{{ item.link_PDF }}]
+              {% endif%}
+              {% if item.link_SLIDES%}
+                [{{ item.link_SLIDES }}]
+              {% endif%}
               <br/>
               {{ item.authors }}
               <br/>
