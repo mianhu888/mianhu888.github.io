@@ -29,6 +29,7 @@ publications:
     authors: <u>Yifan Zhang</u>, Douglas Lusa Krug, Chrystalla Mouza, David C. Shepherd, and Lori Pollock
     conference: Innovation and Technology in Computer Science Education (ITiCSE). 2022.
     link: [<a href="https://dl.acm.org/doi/10.1145/3502718.3524757">ACM DL</a>]
+    aaa: asddsa
 
 
   - title: Exploring Computational Thinking Across Disciplines Through Student-Generated Artifact Analysis
