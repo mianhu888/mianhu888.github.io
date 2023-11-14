@@ -1,0 +1,40 @@
+loadChatJson({
+  "keyword": "success", //这个文件是点击星星之后请求回来的文件，主要就是评价
+  "data": [{
+      "id": 1, //这个单独的不用管它
+      "lesson_id": 1, //教材id，对应的是list_api.json里面的id
+      "thread_id": 1, //第几组聊天内容
+      "sortID": 0, //1代表是主题，0代表是跟帖
+      "content": "Hi, this is the first topic", //这一行就是第一条评论的内容
+      "time": "2023-04-04",
+      "userName": "User Name 1",
+    },
+    {
+      "id": 2, //这个单独的不用管它
+      "lesson_id": 1, //教材id，对应的是list_api.json里面的id
+      "thread_id": 1, //第几组聊天内容
+      "sortID": 1, //1代表是主题，0代表是跟帖
+      "content": "Hi, this is the first comment", //这一行就是第一条评论的内容
+      "time": "2023-04-04",
+      "userName": "User Name 2",
+    },
+    {
+      "id": 3, //这个单独的不用管它
+      "lesson_id": 1, //教材id，对应的是list_api.json里面的id
+      "thread_id": 2, //第几组聊天内容
+      "sortID": 0,
+      "content": "Hi, this is the second topic", //这一行就是第一条评论的内容
+      "time": "2023-04-04",
+      "userName": "User Name 3",
+    },
+    {
+      "id": 4, //这个单独的不用管它
+      "lesson_id": 1, //教材id，对应的是list_api.json里面的id
+      "thread_id": 1, //第几组聊天内容
+      "sortID": 2,
+      "content": "Hi, this is the third comment", //这一行就是第一条评论的内容
+      "time": "2023-04-04",
+      "userName": "User Name 4",
+    },
+  ]
+})
