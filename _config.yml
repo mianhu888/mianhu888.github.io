@@ -16,8 +16,6 @@ header:
       slug: /research
     - name: CV
       slug: /CV
-    - name: Lesson Finder
-      slug: /lesson
 
 footer:
   show_powered_by: true

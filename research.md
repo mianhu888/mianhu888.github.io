@@ -25,6 +25,13 @@ projects:
 
 title2: Publication
 publications:
+  - title: Using Domain-Specific, Immediate Feedback to Support Students Learning Computer Programming to Make Music
+    authors: Douglas Lusa Krug, <u>Yifan Zhang</u>, Chrystalla Mouza, Taylor Barnett, Lori Pollock, and David C. Shepherd
+    conference: Innovation and Technology in Computer Science Education (ITiCSE). 2023.
+    link_ACMDL: <a href="https://dl.acm.org/doi/10.1145/3587102.3588851">ACM DL</a>
+    link_PDF: <a href="/assets/file/ITiCSE_2023_Zhang_Paper.pdf">PDF</a>
+
+
   - title: A Case Study of Middle Schoolers’ Use of Computational Thinking Concepts and Practices during Coded Music Composition
     authors: <u>Yifan Zhang</u>, Douglas Lusa Krug, Chrystalla Mouza, David C. Shepherd, and Lori Pollock
     conference: Innovation and Technology in Computer Science Education (ITiCSE). 2022.
