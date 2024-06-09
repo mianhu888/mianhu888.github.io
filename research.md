@@ -25,6 +25,10 @@ projects:
 
 title2: Publication
 publications:
+  - title: Examining Participation and Outcomes Among Middle School Students in a Virtual Camp on Coding with Music
+    authors: <u>Yifan Zhang</u>, Santiago Ospina Tabares, Ray Patt, Douglas Lusa Krug, Hilary Mead, Chrystalla Mouza, David Shepherd, and Lori Pollock
+    conference: International Conference of the Learning Sciences (ICLS)
+
   - title: Using Domain-Specific, Immediate Feedback to Support Students Learning Computer Programming to Make Music
     authors: Douglas Lusa Krug, <u>Yifan Zhang</u>, Chrystalla Mouza, Taylor Barnett, Lori Pollock, and David C. Shepherd
     conference: Innovation and Technology in Computer Science Education (ITiCSE). 2023.
