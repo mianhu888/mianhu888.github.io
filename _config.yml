@@ -1,7 +1,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Yifan Eric Zhang
+title: Yifan Eric Zhang (张一帆)
 description: >- # this means to ignore newlines until "baseurl:"
   Yifan's Personal Website.
 baseurl: "/" # the subpath of the site
@@ -20,6 +20,8 @@ header:
 footer:
   show_powered_by: true
   contact:
+    - name: Email
+      value: yifanzhang at bnu dot edu dot cn
     - name: Email
       value: ericzh at udel dot edu
 

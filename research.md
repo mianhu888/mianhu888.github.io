@@ -25,6 +25,11 @@ projects:
 
 title2: Publication
 publications:
+  - title: Scaffolding Expertise":" Evaluating Scaffolds for Block-Based Coding Among Experts and Novices
+    authors: <u>Yifan Zhang</u>, Teomara Rutherford
+    conference: 2024 International Symposium on Artificial Intelligence for Education (ISAIE 2024)
+    link_PDF: <a href="/assets/file/ISAIE_2024_Zhang_Paper.pdf">PDF</a>
+
   - title: Examining Participation and Outcomes Among Middle School Students in a Virtual Camp on Coding with Music
     authors: <u>Yifan Zhang</u>, Santiago Ospina Tabares, Ray Patt, Douglas Lusa Krug, Hilary Mead, Chrystalla Mouza, David Shepherd, and Lori Pollock
     conference: International Conference of the Learning Sciences (ICLS)
