@@ -1,12 +1,12 @@
 ---
-layout: home
+layout: home_en
 profile_picture:
   src: /assets/img/profile-pic.jpg
   alt: website picture
 ---
 
 <p>
-  中文测试
+  I am working as a postdoc researcher with <a href="https://sli.bnu.edu.cn/en/About_us/Leaders/2017/0317/276.html">Prof. Ronghuai Huang</a>, in collaboration with <a href="https://cit.bnu.edu.cn/english/index.html">National Engineering Laboratory for Cyberlearning and Intelligent Technology</a> and <a href="https://sli.bnu.edu.cn/en/">Smart Learning Institute</a>, Faculty of Education, <a href="https://fe-english.bnu.edu.cn/index.shtml">Beijing Normal University</a>.
 </p>
 
 <p>

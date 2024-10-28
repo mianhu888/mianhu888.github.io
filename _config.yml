@@ -9,13 +9,25 @@ url: "https://mianhu888.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 
 header:
-  pages:
-    - name: Home
+  pages_cn:
+    - name: 首页
       slug: /
     - name: Research
       slug: /research
     - name: CV
       slug: /CV
+    - name: English
+      slug: /index_en
+
+  pages_en:
+    - name: Home
+      slug: /index_en
+    - name: Research
+      slug: /research
+    - name: CV
+      slug: /CV
+    - name: 中文版
+      slug: /
 
 footer:
   show_powered_by: true
