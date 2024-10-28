@@ -12,10 +12,10 @@ header:
   pages_cn:
     - name: 首页
       slug: /
-    - name: Research
-      slug: /research
-    - name: CV
-      slug: /CV
+    - name: 科研
+      slug: /research_cn
+    - name: 简历
+      slug: /CV_cn
     - name: English
       slug: /index_en
 
@@ -23,9 +23,9 @@ header:
     - name: Home
       slug: /index_en
     - name: Research
-      slug: /research
+      slug: /research_en
     - name: CV
-      slug: /CV
+      slug: /CV_en
     - name: 中文版
       slug: /
 

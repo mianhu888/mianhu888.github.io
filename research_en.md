@@ -2,28 +2,28 @@
 layout: work
 slug: /work
 
-title1: 参与项目
+title1: Project
 projects:
   - title: Code Beats
     image:
       src: /assets/img/work/codebeats.jpg
       alt: CodeBeats
-    description: 将音乐创作作为学习编程的一种途径具有潜力。我们通过一个特定的课程体系来教授计算思维（CT），该体系包含两个方面：（1）学生学习如何通过编程来操控和创作嘻哈节拍；（2）学生亲身体验计算过程。在创作节拍的过程中，学生们几乎在不知不觉中掌握了计算机科学的基础概念与技能。
+    description: Making music could be a way to learn programming. We teach computational thinking (CT) via a curriculum where (1) students learn how to code to manipulate and create hip hop beats and (2) students experience computation. As students make beats, they, almost without noticing, learn fundamental concepts and skills of computer science.
 
   - title: Partner4CS
     image:
       src: /assets/img/work/partner4cs.png
       alt: Partner4CS
-    description: 我们提议通过组建由计算机科学、教育学及数学教育领域的大学教师与本科生构成的团队，并借鉴全国各地多个现有模型的成功要素，为中学（6-8年级）和高中（9-12年级）的计算机科学教师提供可持续、高质量的专业发展支持。
+    description: We propose to establish sustainable, high-quality professional development and support for middle (G6-8) and high school (G9-12) computer science teachers by teaming university faculty and undergraduates in computer science, education, and math education and leveraging successful components of several existing models across the country.
 
   - title: Fox and Field
     image:
       src: /assets/img/work/foxfield.png
       alt: Fox and Field
-    description: 在编程课程中，哪些类型的脚手架辅助能够缩小专家与新手在计算思维（CT）表现上的差距？为解答这一问题，我们设计了“Fox and Field”这一方块化的编程游戏，其中包含了不同类型的脚手架辅助，并向计算机科学专业与非计算机科学专业的本科生进行了推广。我们评估了他们的计算思维知识，并记录了他们的编程过程数据，以深入理解这一问题。
+    description: What types of scaffolds narrow the computational thinking (CT) performance gap between experts and novices within a coding obstacle course? We designed Fox and Field, a block-based programming game with different scaffolds and prompted to undergrad students in CS major and non-CS major. We assessed their CT knowledge and logged their programming process data to understand this question.
 
 
-title2: 科研成果
+title2: Publication
 publications:
   - title: Scaffolding Expertise Evaluating Scaffolds for Block-Based Coding Among Experts and Novices
     authors: <u>Yifan Zhang</u>, Teomara Rutherford
