@@ -13,9 +13,9 @@ header:
     - name: 首页
       slug: /
     - name: 科研
-      slug: /research_cn
+      slug: /research
     - name: 简历
-      slug: /CV_cn
+      slug: /CV
     - name: English
       slug: /index_en
 
