@@ -25,7 +25,7 @@ projects:
 
 title2: Publication
 publications:
-  - title: Scaffolding Expertise":" Evaluating Scaffolds for Block-Based Coding Among Experts and Novices
+  - title: Scaffolding Expertise: Evaluating Scaffolds for Block-Based Coding Among Experts and Novices
     authors: <u>Yifan Zhang</u>, Teomara Rutherford
     conference: 2024 International Symposium on Artificial Intelligence for Education (ISAIE 2024)
     link_PDF: <a href="/assets/file/ISAIE_2024_Zhang_Paper.pdf">PDF</a>
@@ -33,6 +33,9 @@ publications:
   - title: Examining Participation and Outcomes Among Middle School Students in a Virtual Camp on Coding with Music
     authors: <u>Yifan Zhang</u>, Santiago Ospina Tabares, Ray Patt, Douglas Lusa Krug, Hilary Mead, Chrystalla Mouza, David Shepherd, and Lori Pollock
     conference: International Conference of the Learning Sciences (ICLS)
+    link_ISLS: <a href="https://repository.isls.org/handle/1/11144">ISLS Repo</a>
+    link_PDF: <a href="/assets/file/ICLS_2024_Zhang_Paper.pdf">PDF</a>
+    link_SLIDES: <a href="/assets/file/ICLS_2024_Zhang_Slides.pdf">Slides</a>
 
   - title: Using Domain-Specific, Immediate Feedback to Support Students Learning Computer Programming to Make Music
     authors: Douglas Lusa Krug, <u>Yifan Zhang</u>, Chrystalla Mouza, Taylor Barnett, Lori Pollock, and David C. Shepherd
