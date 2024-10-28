@@ -8,7 +8,7 @@
       <a href="#" class="menu-icon"></a>
 
       <div class="menu">
-        {% if page.url == "/index_en" %}
+        {% if page.url contains "en" %}
           {% for page in site.header.pages_en %}
             {% if page.slug and page.slug != "" and page.slug != nil %}
               {% assign page_link = page.slug %}

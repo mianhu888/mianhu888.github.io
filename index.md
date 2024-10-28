@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  中文测试1
+  中文测试2
 </p>
 
 <p>
