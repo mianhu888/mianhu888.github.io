@@ -25,7 +25,7 @@ projects:
 
 title2: Publication
 publications:
-  - title: Scaffolding Expertise: Evaluating Scaffolds for Block-Based Coding Among Experts and Novices
+  - title: Scaffolding Expertise Evaluating Scaffolds for Block-Based Coding Among Experts and Novices
     authors: <u>Yifan Zhang</u>, Teomara Rutherford
     conference: 2024 International Symposium on Artificial Intelligence for Education (ISAIE 2024)
     link_PDF: <a href="/assets/file/ISAIE_2024_Zhang_Paper.pdf">PDF</a>
