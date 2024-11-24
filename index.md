@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  我目前在<a href="https://fe-english.bnu.edu.cn/index.shtml">北京师范大学</a>教育学部下属<a href="https://cit.bnu.edu.cn/english/index.html">网络学习与智能技术国家工程实验室</a>及<a href="https://sli.bnu.edu.cn/en/">智慧学习研究院</a>担任博士后研究员，导师为教授、博士生导师、长江学者<a href="https://sli.bnu.edu.cn/en/About_us/Leaders/2017/0317/276.html">黄荣怀</a>教授。
+  我目前在<a href="https://fe-english.bnu.edu.cn/index.shtml">北京师范大学</a>教育学部下属<a href="https://cit.bnu.edu.cn/english/index.html">互联网教育智能技术及应用国家工程研究中心</a>及<a href="https://sli.bnu.edu.cn/en/">智慧学习研究院</a>担任博士后研究员，导师为教授、博士生导师、长江学者<a href="https://sli.bnu.edu.cn/en/About_us/Leaders/2017/0317/276.html">黄荣怀</a>教授。
 </p>
 
 <p>
