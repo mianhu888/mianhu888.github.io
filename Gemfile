@@ -4,7 +4,7 @@ source "https://rubygems.org"
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
 #
 #     bundle exec jekyll serve
-gem "jekyll", "~> 4.0.0"
+gem "jekyll", "~> 4.3"
 
 # Plugins
 group :jekyll_plugins do
@@ -18,5 +18,5 @@ install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
   gem "tzinfo-data"
 end
 
-# Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
+# Jekyll uses WEBrick for local serving on modern Ruby versions.
+gem "webrick", "~> 1.8"

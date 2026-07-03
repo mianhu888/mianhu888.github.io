@@ -4,9 +4,36 @@
   padding-bottom: 3em;
 }
 
+.publication-item {
+  padding-bottom: 1.75em;
+}
+
+.hosted-project-item {
+  padding-bottom: 1.75em;
+}
+
+.work-section-heading {
+  clear: both;
+  font-size: 1.1em;
+  margin: 0 0 1.25em;
+}
+
+.publication-note {
+  clear: both;
+  color: #777777;
+  font-size: 0.95em;
+  margin-top: 0.5em;
+}
+
+.publication-note-inline {
+  margin-top: -0.75em;
+  margin-bottom: 1.25em;
+}
+
 .work-bubble {
   float: left;
   padding-right: 20px;
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
 }

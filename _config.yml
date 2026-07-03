@@ -14,6 +14,8 @@ header:
       slug: /
     - name: 科研
       slug: /research
+    - name: 活动
+      slug: /project
     - name: 简历
       slug: /CV
     - name: English
@@ -24,6 +26,8 @@ header:
       slug: /index_en
     - name: Research
       slug: /research_en
+    - name: Activities
+      slug: /project_en
     - name: CV
       slug: /CV_en
     - name: 中文版
