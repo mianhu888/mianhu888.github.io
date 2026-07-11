@@ -6,7 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Yifan's Personal Website.
 baseurl: "/" # the subpath of the site
 url: "https://mianhu888.github.io" # the base hostname & protocol for the site
-og_image: /assets/img/profile-pic.jpg
+og_image: /assets/img/profile-pic.png
 
 header:
   pages_cn:
@@ -16,8 +16,6 @@ header:
       slug: /research
     - name: 活动
       slug: /project
-    - name: 简历
-      slug: /CV
     - name: English
       slug: /index_en
 
@@ -28,8 +26,6 @@ header:
       slug: /research_en
     - name: Activities
       slug: /project_en
-    - name: CV
-      slug: /CV_en
     - name: 中文版
       slug: /
 

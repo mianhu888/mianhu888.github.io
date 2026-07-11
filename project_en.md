@@ -39,7 +39,7 @@ hosted_projects:
     role: Vice Chair, Young Scholars Alliance Working Group, China Association for Educational Technology
     source: China Association for Educational Technology
     period: May 2026
-    description: A national academic conference on educational technology under the theme of "Breaking Through and Transforming: Educational Technology Research and Development in the AI Era," focusing on theoretical innovation, practice transformation, and industry-university-research-application collaboration in educational technology.
+    description: 'A national academic conference on educational technology under the theme of "Breaking Through and Transforming: Educational Technology Research and Development in the AI Era," focusing on theoretical innovation, practice transformation, and industry-university-research-application collaboration in educational technology.'
 
   - title: Doctoral Student Forum, 30th Global Chinese Conference on Computers in Education (GCCCE)
     image:
@@ -47,7 +47,7 @@ hosted_projects:
       alt: GCCCE2026
     role: Vice Chair
     period: June 2026
-    description: An international academic conference for the global Chinese scholarly community on computers in education and AI in education, exploring the future of educational technology around the theme of "Education in the AI Era: What Is Usable, What Are the Boundaries, and What Is Possible."
+    description: 'An international academic conference for the global Chinese scholarly community on computers in education and AI in education, exploring the future of educational technology around the theme of "Education in the AI Era: What Is Usable, What Are the Boundaries, and What Is Possible."'
 
   - title: UNESCO Chair on AI and Education
     image:
