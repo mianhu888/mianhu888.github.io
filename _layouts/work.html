@@ -25,7 +25,7 @@
             <div class="work-item hosted-project-item">
               {% if item.image and item.image.src %}
                 <img
-                  src="{{ item.image.src | absolute_url }}"
+                  src="{{ item.image.src | relative_url }}"
                   alt="{{ item.image.alt }}"
                   class="work-bubble"
                 />
@@ -63,7 +63,7 @@
           <div class="work-item hosted-project-item">
             {% if item.image and item.image.src %}
               <img
-                src="{{ item.image.src | absolute_url }}"
+                src="{{ item.image.src | relative_url }}"
                 alt="{{ item.image.alt }}"
                 class="work-bubble"
               />

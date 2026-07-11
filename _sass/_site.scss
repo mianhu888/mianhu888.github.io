@@ -5,9 +5,12 @@
   margin-left: 20px;
 
   @include media-query($on-mobile) {
-    float: none;
-    margin-bottom: 20px;
-    margin-left: 0px;
+    float: right;
+    width: 34vw;
+    max-width: 140px;
+    min-width: 105px;
+    margin-bottom: 8px;
+    margin-left: 14px;
   }
 }
 
